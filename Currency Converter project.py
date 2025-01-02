@@ -14,15 +14,5 @@ if Source_Currency in Base_Currency and Target_Currency in Base_Currency:
 else:
     print("Enter a valid currency from the available options.")
 
-    
-
-
-
-
-
-
-
-
-
 
 
